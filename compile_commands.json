@@ -1,0 +1,6 @@
+[
+{
+  "directory": "/doc/work/WUR/data/APPLEMATURITY/ColorSpace",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-std=c++20", "-fno-strict-aliasing", "-DDEBUG", "-DNDEBUG", "-o", "build/.objs/ColorSpace/linux/x86_64/release/src/ColorSpace.cpp.o", "src/ColorSpace.cpp"],
+  "file": "src/ColorSpace.cpp"
+}]
